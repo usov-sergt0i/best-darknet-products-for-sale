@@ -125,4 +125,6 @@ Access darknet markets only through verified `.onion` URLs. Use mirror sites if 
 Darknet marketplaces offer a unique selection of products. By using the outlined security measures, you can engage safely and responsibly, always prioritizing secure practices.
 Plase contribute and add stars to this repo.
 
-Update:  08/04/2025 url is now active
+
+
+Update:  13 August Link is now live and reachable
